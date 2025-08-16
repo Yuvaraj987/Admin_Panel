@@ -12,7 +12,7 @@ The Admin Panel provides a web-based interface for managing application users, s
 - 📧 **Email Notifications:** Automated alerts for important events.
 - 🛠️ **Easy Integration:** Connect with other services and APIs.
 
-## Screenshot
+## Screenshots
 
 ![Screenshot](/noodle1.png)    ![Screenshot](/noodle2.png)
 
