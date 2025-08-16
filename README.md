@@ -14,7 +14,7 @@ The Admin Panel provides a web-based interface for managing application users, s
 
 ## Screenshot
 
-
+![Screenshot](/Screenshot (6).png)
 
 ## License
 
